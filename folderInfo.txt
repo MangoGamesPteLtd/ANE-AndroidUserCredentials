@@ -1,0 +1,13 @@
+AndroidDeviceMailIDCode  -- native android code
+
+ActionScriptLiB          -- ActionScript library file
+
+build                    -- ane generated folder
+
+AneIncludeinApp          -- integrated ane file in ationscript 
+
+
+
+command to generate ane file 
+
+adt -package -target ane testm9.ane extension.xml -swc MailID.swc -platform Android-ARM -C android .
